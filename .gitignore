@@ -1,0 +1,5 @@
+## git igorne file
+out
+.vscode
+node_modules
+release-builds
